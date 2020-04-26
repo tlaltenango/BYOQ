@@ -7,4 +7,4 @@ To preview PHP code in browser:
 2: Then right click > "PHP Server: Serve Project" to view in browser
 
 
-![Step 2 image]https://github.com/[tlaltenango]/[BYOQ]/image1.PNG?raw=true)
+![Step 2 image]https://github.com/[tlaltenango]/[BYOQ]/image1.PNG?raw=true
