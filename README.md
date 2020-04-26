@@ -1,5 +1,7 @@
 # BYOQ
 
+[PHP code by Chris Coyier at CSS-tricks](https://css-tricks.com/building-a-simple-quiz/)
+
 To preview PHP code in browser:
 
 1: download PHP server extension in VSCode:  brapifra.phpserver
